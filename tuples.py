@@ -7,4 +7,6 @@ print(numbers.index(1))
 
 # em tuples podemos usar as funções pre-definidas, como:
 # -> .count(elemento): que vai contar quantas vezes este elemento ocorre na lista
+# -> .index(elemento): que vai dizer qual é o index/posição de um elemento que ponhamos dentro dos parenteses
+
 
